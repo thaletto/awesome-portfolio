@@ -1,6 +1,7 @@
 # awesome-portfolio
 List of beautifully designed developer portfolios
 
+- [Vishwa Gaurav](https://itsvg.in/)
 - [Gaurav Singh](https://gauravsingh.co.in/)
 - [Navdeep Singh](https://navdeep.xyz/)
 - [Abhiman Panwar](https://www.kroszborg.co/)
