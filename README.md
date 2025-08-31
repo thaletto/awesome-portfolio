@@ -33,3 +33,8 @@ List of beautifully designed developer portfolios
 - [David Haaz](https://davidhaz.com/)
 - [Sanjay Sai](https://www.sanjaysai.com/)
 - [Prince Raj](https://prince.is-a.dev/)
+- [Rahul Marban](https://marban.is-a.dev/)
+- [Keshav Gupta](https://keshavcreates.netlify.app/)
+- [Shivesh Tiwari](https://www.shitworks.co/)
+- [Bhavya Gosai](https://bhavyagosai.com/)
+- 
